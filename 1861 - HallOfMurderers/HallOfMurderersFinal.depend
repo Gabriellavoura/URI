@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601422678 source:c:\users\gabriel\desktop\aula 03 - listas lineares\hallofmurderersfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
